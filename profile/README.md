@@ -1,12 +1,7 @@
-## Hi there 👋
+# Iman Bachelor CE
 
-<!--
+This organization is my archive for work from my Computer Engineering bachelor's degree.
 
-**Here are some ideas to get you started:**
+Here I keep course repositories, programming projects, reports, notes, assignments, and supporting files from that period. The goal is to keep the material organized, documented, and easy to revisit.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Most repositories are arranged around a course or a completed academic project. I try to keep the structure simple and consistent, with clear README files and organized folders for source code, reports, notes, and related materials.

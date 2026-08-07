@@ -1,3 +1,5 @@
-# .github repository of My Bachelor in CE Organization
+# .github
 
-You can find the readme of the organization in [here](https://github.com/Iman-Bachelor-CE/.github/blob/main/profile/README.md).
+This repository contains the GitHub profile files for the `Iman-Bachelor-CE` organization.
+
+The organization profile is maintained in [profile/README.md](profile/README.md).
